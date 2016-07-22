@@ -1,0 +1,50 @@
+{
+	"firstname":"alekhya",
+	"lastname":"yalla",
+	"age":20,
+	"height":5.7,
+	"phonenumber":
+	[
+		"home":08857245302
+	]
+}
+{
+	"firstname":"srilekha",
+	"phonenumber":
+	[
+		"home":08857245302
+	]
+	"lastname":"yalla",
+	"age":19,
+	"height":5.8,
+}
+{
+	"firstname":"sekhar babu",
+	"height":5.8,
+	"phonenumber":
+	[
+		"mobile":9849598696
+	]
+	"lastname":"yalla",
+	"age":29,	
+}
+{
+	"firstname":"suresh babu",
+	"lastname":"yalla",
+	"age":33,
+	"height":5.9,
+	"phonenumber":
+	[
+		"mobile":8451000960
+	]
+}
+{
+	"age":20,	
+	"firstname":"gowtham",
+	"height":5.6,
+	"phonenumber":
+	[
+		"mobile":9491898148
+	]
+	"lastname":"pati",	
+}
